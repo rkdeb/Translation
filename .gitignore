@@ -5,6 +5,7 @@
 /PATCH_*.sh
 
 /app/etc/local.xml
+*.html
 
 /media/*
 !/media/.htaccess
