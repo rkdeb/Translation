@@ -3,6 +3,7 @@
   "description": "TechSolve TextTranslation",
   "require": {
     "php": "~5.6.0|7.0.2|~7.0.6|~7.2",
+    "magento/framework": "0.74.0-beta4",
     "magento/magento-composer-installer": "*"
   },
   "type": "magento2-module",
