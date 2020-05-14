@@ -1,5 +1,5 @@
 {
-  "name": "TechSolve/texttranslation",
+  "name": "tech-solve/texttranslation",
   "description": "TechSolve TextTranslation",
   "require": {
     "php": "~5.6.0|7.0.2|~7.0.6|~7.2",
@@ -19,5 +19,8 @@
         "TechSolve/TextTranslation"
       ]
     ]
+  },
+  "config": {
+    "disable-tls": true
   }
 }
